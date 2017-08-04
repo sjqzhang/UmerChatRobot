@@ -1,10 +1,9 @@
 ### 
 
+robot_creat.py: 创建聊天机器人
 
+robot_train.py: 训练聊天机器人
 
-### 语料库
-corpus_browse.py 查
+robot_chat.py: 开始聊天
 
-corpus_install.py 增
-
-corpus_remove.py 删
+udf_corpus: 自定义的语料库
